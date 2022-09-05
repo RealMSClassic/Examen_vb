@@ -20,6 +20,10 @@ Public Class negociosVenta
     Public Function PedirIDVenta() As DataTable
         Return consulta.PedirIdVenta()
     End Function
+    Public Function MostrarVentasFecha(ByVal a As String, ByVal b As String) As DataTable
+        Return consulta.MostrarVentasFecha(a, b)
+    End Function
+
 
     Public Sub ventaItem(ByVal da As entidadVentaItem)
         consulta.IngresarItemVenta(da)

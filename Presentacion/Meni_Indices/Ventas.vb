@@ -5,11 +5,13 @@ Public Class Ventas
     Dim consulta As negociosVenta = New negociosVenta
     Private Sub Ventas_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         cargargrilla()
-
+        filtroVentas.mostrar()
     End Sub
     Public Sub cargargrilla()
 
         grillVentas.DataSource = consulta.cargar_ventas
+        grillVentas.Columns("ID").Visible = False
+        grillVentas.Columns("IDCliente").Visible = False
 
 
     End Sub
@@ -25,13 +27,19 @@ Public Class Ventas
             cargargrilla()
         Else
 
-            cargargrillaBusqueda2(txtBuscarVentas.Text, llave)
 
+            Dim k As New DataView(consulta.cargar_ventas)
+            k.RowFilter = String.Format("Cliente like '%{0}%'", txtBuscarVentas.Text)
+            grillVentas.DataSource = k
+            grillVentas.Columns("ID").Visible = False
+            grillVentas.Columns("IDCliente").Visible = False
         End If
     End Sub
     Public Sub cargargrillaBusqueda2(ByVal bus As String, ByVal tipo As String)
         Dim a As Query_Venta = New Query_Venta
         grillVentas.DataSource = a.BuscarFil(bus, tipo)
+        grillVentas.Columns("ID").Visible = False
+        grillVentas.Columns("IDCliente").Visible = False
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
@@ -55,4 +63,8 @@ Public Class Ventas
         Return CInt(idcheck)
 
     End Function
+
+    Private Sub brnFecha_Click(sender As Object, e As EventArgs) Handles brnFecha.Click
+        grillVentas.DataSource = consulta.MostrarVentasFecha(dtpIni.Value.ToString, dtpEnd.Value.ToString)
+    End Sub
 End Class

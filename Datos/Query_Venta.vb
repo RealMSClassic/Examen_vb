@@ -66,7 +66,7 @@ Public Class Query_Venta
     Public Function MostrarVentas() As DataTable
         Try
             abrir()
-            adaptador = New SqlDataAdapter("SELECT * FROM ventas ", cn)
+            adaptador = New SqlDataAdapter("select v.ID,c.Cliente,v.IDCliente,v.Fecha,v.Total from ventas v inner join clientes c on v.IDCliente = c.ID", cn)
             dt = New DataTable
             adaptador.Fill(dt)
 
@@ -77,9 +77,22 @@ Public Class Query_Venta
         Return dt
         cerrar()
 
+    End Function
+    Public Function MostrarVentasFecha(ByVal a As String, ByVal b As String) As DataTable
+        Try
+            abrir()
+            adaptador = New SqlDataAdapter("select v.ID,c.Cliente,v.IDCliente,v.Fecha,v.Total from ventas v inner join clientes c on v.IDCliente = c.ID where Fecha between '" & a & "' and '" & b & "' ", cn)
+            dt = New DataTable
+            adaptador.Fill(dt)
+
+        Catch ex As Exception
+
+        End Try
+
+        Return dt
+        cerrar()
 
     End Function
-
     Public Function Mostrarclientes() As DataTable
         Try
             abrir()
@@ -161,7 +174,7 @@ Public Class Query_Venta
     Public Function BuscarFil(ByVal a As String, ByVal b As String) As DataTable
         Try
             abrir()
-            Dim Query As String = "SELECT * FROM ventas WHERE " & b & " LIKE '" & a & "%'"
+            Dim Query As String = "select v.ID,c.Cliente,v.IDCliente,v.Fecha,v.Total from ventas v inner join clientes c on v.IDCliente = c.ID where " & b & " LIKE '" & a & "%'"
             adaptador = New SqlDataAdapter(Query, cn)
             dt = New DataTable
             adaptador.Fill(dt)

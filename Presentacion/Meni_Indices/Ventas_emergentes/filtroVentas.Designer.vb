@@ -23,8 +23,8 @@ Partial Class filtroVentas
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.btnAcepFiltro = New System.Windows.Forms.Button()
-        Me.rbtnIdCliente = New System.Windows.Forms.RadioButton()
-        Me.rbtnidVenta = New System.Windows.Forms.RadioButton()
+        Me.rbtFecha = New System.Windows.Forms.RadioButton()
+        Me.rbtCliente = New System.Windows.Forms.RadioButton()
         Me.SuspendLayout()
         '
         'btnAcepFiltro
@@ -40,27 +40,27 @@ Partial Class filtroVentas
         Me.btnAcepFiltro.Text = "Agregar"
         Me.btnAcepFiltro.UseVisualStyleBackColor = False
         '
-        'rbtnIdCliente
+        'rbtFecha
         '
-        Me.rbtnIdCliente.AutoSize = True
-        Me.rbtnIdCliente.Location = New System.Drawing.Point(195, 40)
-        Me.rbtnIdCliente.Name = "rbtnIdCliente"
-        Me.rbtnIdCliente.Size = New System.Drawing.Size(71, 17)
-        Me.rbtnIdCliente.TabIndex = 18
-        Me.rbtnIdCliente.TabStop = True
-        Me.rbtnIdCliente.Text = "ID Cliente"
-        Me.rbtnIdCliente.UseVisualStyleBackColor = True
+        Me.rbtFecha.AutoSize = True
+        Me.rbtFecha.Location = New System.Drawing.Point(195, 34)
+        Me.rbtFecha.Name = "rbtFecha"
+        Me.rbtFecha.Size = New System.Drawing.Size(55, 17)
+        Me.rbtFecha.TabIndex = 18
+        Me.rbtFecha.TabStop = True
+        Me.rbtFecha.Text = "Fecha"
+        Me.rbtFecha.UseVisualStyleBackColor = True
         '
-        'rbtnidVenta
+        'rbtCliente
         '
-        Me.rbtnidVenta.AutoSize = True
-        Me.rbtnidVenta.Location = New System.Drawing.Point(63, 40)
-        Me.rbtnidVenta.Name = "rbtnidVenta"
-        Me.rbtnidVenta.Size = New System.Drawing.Size(67, 17)
-        Me.rbtnidVenta.TabIndex = 17
-        Me.rbtnidVenta.TabStop = True
-        Me.rbtnidVenta.Text = "ID Venta"
-        Me.rbtnidVenta.UseVisualStyleBackColor = True
+        Me.rbtCliente.AutoSize = True
+        Me.rbtCliente.Location = New System.Drawing.Point(70, 34)
+        Me.rbtCliente.Name = "rbtCliente"
+        Me.rbtCliente.Size = New System.Drawing.Size(57, 17)
+        Me.rbtCliente.TabIndex = 17
+        Me.rbtCliente.TabStop = True
+        Me.rbtCliente.Text = "Cliente"
+        Me.rbtCliente.UseVisualStyleBackColor = True
         '
         'filtroVentas
         '
@@ -69,8 +69,8 @@ Partial Class filtroVentas
         Me.BackColor = System.Drawing.Color.RoyalBlue
         Me.ClientSize = New System.Drawing.Size(317, 99)
         Me.Controls.Add(Me.btnAcepFiltro)
-        Me.Controls.Add(Me.rbtnIdCliente)
-        Me.Controls.Add(Me.rbtnidVenta)
+        Me.Controls.Add(Me.rbtFecha)
+        Me.Controls.Add(Me.rbtCliente)
         Me.MaximizeBox = False
         Me.Name = "filtroVentas"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
@@ -81,6 +81,6 @@ Partial Class filtroVentas
     End Sub
 
     Friend WithEvents btnAcepFiltro As Button
-    Friend WithEvents rbtnIdCliente As RadioButton
-    Friend WithEvents rbtnidVenta As RadioButton
+    Friend WithEvents rbtFecha As RadioButton
+    Friend WithEvents rbtCliente As RadioButton
 End Class
