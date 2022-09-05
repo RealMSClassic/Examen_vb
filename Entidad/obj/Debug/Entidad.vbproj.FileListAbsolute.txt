@@ -1,0 +1,10 @@
+C:\Users\Real\source\repos\Examen\Entidad\bin\Debug\Entidad.dll
+C:\Users\Real\source\repos\Examen\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Real\source\repos\Examen\Entidad\bin\Debug\Entidad.xml
+C:\Users\Real\source\repos\Examen\Entidad\obj\Debug\Entidad.vbproj.AssemblyReference.cache
+C:\Users\Real\source\repos\Examen\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\Real\source\repos\Examen\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.cache
+C:\Users\Real\source\repos\Examen\Entidad\obj\Debug\Entidad.vbproj.CoreCompileInputs.cache
+C:\Users\Real\source\repos\Examen\Entidad\obj\Debug\Entidad.dll
+C:\Users\Real\source\repos\Examen\Entidad\obj\Debug\Entidad.xml
+C:\Users\Real\source\repos\Examen\Entidad\obj\Debug\Entidad.pdb

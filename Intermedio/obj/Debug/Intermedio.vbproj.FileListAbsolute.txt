@@ -1,0 +1,68 @@
+C:\Users\Real\source\repos\Examen\Intermedio\bin\Debug\Intermedio.dll
+C:\Users\Real\source\repos\Examen\Intermedio\bin\Debug\Intermedio.pdb
+C:\Users\Real\source\repos\Examen\Intermedio\bin\Debug\Intermedio.xml
+C:\Users\Real\source\repos\Examen\Intermedio\obj\Debug\Intermedio.vbproj.AssemblyReference.cache
+C:\Users\Real\source\repos\Examen\Intermedio\obj\Debug\Intermedio.Resources.resources
+C:\Users\Real\source\repos\Examen\Intermedio\obj\Debug\Intermedio.vbproj.GenerateResource.cache
+C:\Users\Real\source\repos\Examen\Intermedio\obj\Debug\Intermedio.vbproj.CoreCompileInputs.cache
+C:\Users\Real\source\repos\Examen\Intermedio\obj\Debug\Intermedio.dll
+C:\Users\Real\source\repos\Examen\Intermedio\obj\Debug\Intermedio.xml
+C:\Users\Real\source\repos\Examen\Intermedio\obj\Debug\Intermedio.pdb
+C:\Users\Real\source\repos\Examen\Intermedio\bin\Debug\Datos.dll
+C:\Users\Real\source\repos\Examen\Intermedio\bin\Debug\Entidad.dll
+C:\Users\Real\source\repos\Examen\Intermedio\bin\Debug\Datos.pdb
+C:\Users\Real\source\repos\Examen\Intermedio\bin\Debug\Datos.xml
+C:\Users\Real\source\repos\Examen\Intermedio\bin\Debug\Entidad.pdb
+C:\Users\Real\source\repos\Examen\Intermedio\bin\Debug\Entidad.xml
+C:\Users\Real\source\repos\Examen\Intermedio\obj\Debug\Intermedio.vbproj.CopyComplete
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\bin\Debug\Intermedio.dll
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\bin\Debug\Intermedio.pdb
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\bin\Debug\Intermedio.xml
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\bin\Debug\Datos.dll
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\bin\Debug\Entidad.dll
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\bin\Debug\Datos.pdb
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\bin\Debug\Datos.xml
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\bin\Debug\Entidad.pdb
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\bin\Debug\Entidad.xml
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\obj\Debug\Intermedio.vbproj.AssemblyReference.cache
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\obj\Debug\Intermedio.Resources.resources
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\obj\Debug\Intermedio.vbproj.GenerateResource.cache
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\obj\Debug\Intermedio.vbproj.CoreCompileInputs.cache
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\obj\Debug\Intermedio.vbproj.CopyComplete
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\obj\Debug\Intermedio.dll
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\obj\Debug\Intermedio.xml
+C:\Users\Real\Desktop\Prueba tactica\Examen 3.0 fix\Examen\Intermedio\obj\Debug\Intermedio.pdb
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Intermedio.dll
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Intermedio.pdb
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Intermedio.xml
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Datos.dll
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Entidad.dll
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Datos.pdb
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Datos.xml
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Entidad.pdb
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Entidad.xml
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.vbproj.AssemblyReference.cache
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.Resources.resources
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.vbproj.GenerateResource.cache
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.vbproj.CoreCompileInputs.cache
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.vbproj.CopyComplete
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.dll
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.xml
+D:\06-Descargas\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.pdb
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Intermedio.dll
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Intermedio.pdb
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Intermedio.xml
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Datos.dll
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Entidad.dll
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Datos.pdb
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Datos.xml
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Entidad.pdb
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\bin\Debug\Entidad.xml
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.vbproj.AssemblyReference.cache
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.Resources.resources
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.vbproj.GenerateResource.cache
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.vbproj.CoreCompileInputs.cache
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.vbproj.CopyComplete
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.dll
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.xml
+C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Intermedio\obj\Debug\Intermedio.pdb
