@@ -157,3 +157,44 @@ C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Present
 C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Presentacion\obj\Debug\Presentacion.pdb
 C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Presentacion\obj\Debug\Presentacion.ClientesBusqueda.resources
 C:\Users\Real\Desktop\Examen 3.1 2022-29-08\Examen 3.1 2022-29-08\Examen\Presentacion\obj\Debug\Presentacion.filtroBusquedaCliente2.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Presentacion.exe.manifest
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Presentacion.application
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Datos.dll
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Entidad.dll
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Intermedio.dll
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Datos.xml
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Entidad.xml
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Intermedio.pdb
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\bin\Debug\Intermedio.xml
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.ClientesBusqueda.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.filtroBusquedaCliente2.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.filtroVentas.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.filtroProducto.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.frmfiltro.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.Clientes_Nuevo.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.Cliente_Modificar.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.Productos.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.Producto_Modificar.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.Producto_Nuevo.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.Ventas.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.Agregar_Venta.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.Registrar_Ventas.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.ResumenVenta.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.exe.manifest
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.application
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Real\Desktop\Examen 4\Examen\Presentacion\obj\Debug\Presentacion.pdb

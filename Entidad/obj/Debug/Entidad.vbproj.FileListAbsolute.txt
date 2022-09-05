@@ -8,3 +8,13 @@ C:\Users\Real\source\repos\Examen\Entidad\obj\Debug\Entidad.vbproj.CoreCompileIn
 C:\Users\Real\source\repos\Examen\Entidad\obj\Debug\Entidad.dll
 C:\Users\Real\source\repos\Examen\Entidad\obj\Debug\Entidad.xml
 C:\Users\Real\source\repos\Examen\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Real\Desktop\Examen 4\Examen\Entidad\bin\Debug\Entidad.dll
+C:\Users\Real\Desktop\Examen 4\Examen\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Real\Desktop\Examen 4\Examen\Entidad\bin\Debug\Entidad.xml
+C:\Users\Real\Desktop\Examen 4\Examen\Entidad\obj\Debug\Entidad.vbproj.AssemblyReference.cache
+C:\Users\Real\Desktop\Examen 4\Examen\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\Real\Desktop\Examen 4\Examen\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.cache
+C:\Users\Real\Desktop\Examen 4\Examen\Entidad\obj\Debug\Entidad.vbproj.CoreCompileInputs.cache
+C:\Users\Real\Desktop\Examen 4\Examen\Entidad\obj\Debug\Entidad.dll
+C:\Users\Real\Desktop\Examen 4\Examen\Entidad\obj\Debug\Entidad.xml
+C:\Users\Real\Desktop\Examen 4\Examen\Entidad\obj\Debug\Entidad.pdb
